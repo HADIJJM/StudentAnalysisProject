@@ -1,0 +1,511 @@
+StudentID,Name,Gender,Age,GradeLevel,GPA,MathScore,EnglishScore,ScienceScore,AttendanceRate,BehaviorNotes,ParentalSupport,City,SchoolName,RegisteredDate
+S1000,Reem Aldosari,Male,16,12,2.93,70,65,70,98.6,bad,N,Riyadh,Bright academy,5/30/2021
+S1001,Khalid Alsubaie,MALE,18,10,2.77,nan,85,100,86.5, ,Yes,Dammam,Bright Academy,6/8/2021
+S1002,Layla Almutairi,female,16,10,3,80,65,50,102,Excellent,Yes,Riyadh,Bright Academy,10/6/2021
+S1003,Omar Alshammari,male,16,11,3.3,70,75,60,87, ,Y,Riyadh,Future School,3/27/2023
+S1004,Khalid Alzahrani,Female,16,11,2.28,80,75,70,84.2, ,Y,riyadh,Bright Academy,2/8/2022
+S1005,Lama Alharbi,FEMALE,18,11,1.85,80,85,70,84.4,Excellent,N,jedda,Future  School,6/12/2023
+S1006,Nora Alshammari,FEMALE,16,12,2.72,80,75,60,74.3,Needs Improvement,no,Riyad,Bright Academy,11/9/2022
+S1007,Lama Alghamdi,Female,15,12,2.39,70,75,60,96.7, ,TRUE,Jeddah,Bright academy,11/7/2021
+S1008,Sara Alsubaie,FEMALE,17,12,2.75,70,75,50,73.7,bad,no,Jeddah,Future School,3/9/2021
+S1009,Ali Alshammari,M,18,11,2.93,80,85,60,79.7,Needs Improvement,Yes,Jeddah,Bright Academy,4/8/2022
+S1010,Khalid Alghamdi,MALE,15,10,2.77,70,65,50,71.2,Average,FALSE,Riyad,Bright Academy,3/29/2021
+S1011,Khalid Alsubaie,M,16,12,3.73,60,65,70,91.1, ,Yes,Riyad,Future  School,8/5/2021
+S1012,Ali Alshehri,MALE,15,10,3.16,90,nan,50,90.5,bad,TRUE,Dammam,Future School,1/1/2021
+S1013,Nora Alghamdi,MALE,16,11,3.15,90,75,50,88.7, ,N,Dammam,Future  School,5/15/2021
+S1014,Layla Alzahrani,M,16,10,3.31,70,75,70,81.6,Average,N,Riyadh,Future School,11/28/2022
+S1015,Lama Alzahrani,Female,17,11,2.43,60,55,70,80.3,Needs Improvement,Y,Riyad,Bright academy,12/17/2021
+S1016,Sara Alshammari,male,17,10,3.52,70,75,80,96.6, ,Y,jedda,Future School,5/20/2021
+S1017,Lama Alsubaie,male,17,11,2.96,80,65,70,86.5,Excellent,FALSE,Jeddah,Future School,9/10/2022
+S1018,Lama Alsubaie,M,16,11,3.34,90,55,60,95.2,Excellent,TRUE,Riyadh,Bright academy,5/13/2021
+S1019,Ali Almutairi,Female,18,10,2.46,60,seventy,80,83.1,bad,Yes,JEDDAH,Future  School,9/12/2022
+S1020,Khalid Almutairi,female,16,11,2.22,60,55,70,93.8,Excellent,Y,jedda,Future  School,6/27/2021
+S1021,Faisal Alshehri,Female,-1,12,3.41,90,55,50,105,Average,No,JEDDAH,Bright academy,3/21/2023
+S1022,Layla Aldosari,M,17,12,3.19,70,75,70,97.9,Excellent,yes,Dammam,Future  School,12/24/2021
+S1023,Omar Alotaibi,M,15,11,2.55,70,75,100,87.9,Good,Y,Riyadh,Future School,1/15/2022
+S1024,Khalid Alsubaie,M,17,10,2.57,eighty,nan,60,94.6,Needs Improvement,yes,riyadh,Future School,6/27/2023
+S1025,Lama Alotaibi,Male,16,11,3.56,60,75,60,89.6,bad,N,Dammam,Bright Academy,5/21/2023
+S1026,Sara Alshammari,MALE,17,11,2.41,80,65,50,92.1,Good,FALSE,Dammam,Future School,10/20/2022
+S1027,Reem Aldosari,female,15,10,3.82,60,55,50,88.7,Excellent,TRUE,jedda,Bright academy,3/26/2022
+S1028,Reem Alotaibi,Female,15,11,2.55,70,55,60,90.4,Excellent,Yes,jedda,Bright Academy,8/9/2022
+S1029,Lama Alharbi,Male,18,11,3.32,80,75,70,94.1,Excellent,Y,Riyad,Bright academy,4/8/2022
+S1030,Nora Alshammari,Female,16,11,2.84,70,65,50,82.1,bad,no,Riyadh,Future School,9/17/2023
+S1031,Nora Alshehri,FEMALE,18,10,3.3,eighty,85,100,81.8,Excellent,TRUE,Riyadh,Future School,4/18/2021
+S1032,Faisal Alsubaie,Male,16,10,2.73,80,75,80,78.1,bad,TRUE,Riyadh,Bright Academy,5/2/2021
+S1033,Layla Alshammari,F,17,11,2.92,70,seventy,70,76,Needs Improvement,N,Riyadh,Future  School,1/17/2021
+S1034,Nora Aldosari,F,17,12,3.02,60,65,80,79.8,Needs Improvement,yes,Riyad,Future  School,7/15/2021
+S1035,Sara Almutairi,MALE,17,10,2.5,70,seventy,50,93.6, ,no,Riyadh,Future School,11/23/2021
+S1036,Khalid Aldosari,M,16,12,3.37,70,65,60,83.1,Average,N,riyadh,Future School,11/14/2021
+S1037,Khalid Alshammari,female,16,12,2.74,60,65,70,97.1,bad,no,riyadh,Bright academy,3/20/2023
+S1038,Lama Almutairi,MALE,15,11,2.89,70,55,80,92.3,Good,no,jedda,Future  School,4/24/2022
+S1039,Khalid Alotaibi,Female,16,10,2.5,70,55,80,72.3,bad,no,JEDDAH,Future School,9/9/2021
+S1040,Layla Alqahtani,M,17,10,1.72,80,75,60,98.5, ,no,Jeddah,Bright Academy,5/18/2022
+S1041,Reem Alharbi,MALE,200,11,2.9,80,65,100,100.1, ,FALSE,jedda,Bright academy,9/26/2023
+S1042,Ahmed Alshehri,MALE,18,12,4.21,80,55,50,82.1, ,FALSE,Jeddah,Future  School,4/29/2021
+S1043,Faisal Alzahrani,FEMALE,17,12,3.39,nan,75,80,96.2,Excellent,FALSE,Riyad,Future School,11/5/2022
+S1044,Faisal Almutairi,FEMALE,17,10,2.99,60,65,100,83.4,Excellent,No,Riyadh,Bright Academy,12/11/2022
+S1045,Faisal Alqahtani,Female,17,11,2.87,80,75,50,93,bad,N,Riyad,Bright academy,5/13/2022
+S1046,Ali Aldosari,MALE,16,11,3.01,70,65,70,79.4,Needs Improvement,FALSE,JEDDAH,Future School,5/1/2022
+S1047,Ahmed Alghamdi,F,200,12,3.27,nan,75,,74.1,Needs Improvement,Yes,Riyadh,Bright academy,2/14/2021
+S1048,Omar Alzahrani,female,17,10,2.41,80,75,60,88.2, ,Y,riyadh,Future  School,11/10/2021
+S1049,Lama Alshammari,MALE,17,12,3.56,80,65,70,90.8,Good,no,JEDDAH,Future  School,6/28/2021
+S1050,Lama Alshammari,Male,15,12,3.36,70,65,70,88,Average,FALSE,JEDDAH,Future  School,6/13/2023
+S1051,Reem Alqahtani,M,16,10,3.36,60,65,100,80.2,Needs Improvement,Y,JEDDAH,Future  School,2/22/2022
+S1052,Lama Alghamdi,F,16,11,3.22,80,75,70,88,bad,Y,Dammam,Bright academy,7/10/2022
+S1053,Omar Alqahtani,Male,18,12,3.01,80,65,60,94.7,bad,N,Jeddah,Future  School,2/22/2023
+S1054,Nora Almutairi,M,17,11,3.34,80,55,80,91.6,Average,yes,jedda,Future School,3/19/2021
+S1055,Khalid Alshammari,male,16,11,3.3,80,55,100,93.8,Good,FALSE,Jeddah,Bright academy,11/22/2021
+S1056,Reem Alzahrani,Female,-1,10,2.82,80,65,,85.3,Average,TRUE,JEDDAH,Bright Academy,11/21/2022
+S1057,Layla Aldosari,F,15,11,2.71,70,65,100,103.7,Average,Y,riyadh,Future School,12/23/2021
+S1058,Khalid Alharbi,Female,16,11,3.05,60,75,50,80.2,Good,Y,Jeddah,Bright academy,2/20/2022
+S1059,Ali Alqahtani,male,15,11,3.77,80,55,80,96.9,Average,Y,jedda,Bright Academy,8/21/2023
+S1060,Nora Alqahtani,M,17,11,2.38,80,65,60,103.8,Good,N,jedda,Bright Academy,5/30/2022
+S1061,Khalid Alharbi,MALE,200,12,2.27,80,75,50,96.8, ,Y,jedda,Bright Academy,8/2/2021
+S1062,Reem Alotaibi,male,16,12,3.08,60,75,60,90,Needs Improvement,TRUE,Jeddah,Bright academy,5/4/2023
+S1063,Sara Alshehri,male,18,11,3.03,60,65,70,86.7,bad,N,jedda,Bright Academy,3/15/2021
+S1064,Nora Alghamdi,F,16,10,3.09,90,65,60,102.4,Excellent,yes,Riyad,Future School,7/17/2022
+S1065,Ahmed Almutairi,female,200,11,3.12,80,65,50,77.8,bad,FALSE,JEDDAH,Future School,8/2/2022
+S1066,Lama Aldosari,Female,17,12,2.89,90,85,70,82.3,Excellent,yes,Riyadh,Bright academy,5/24/2022
+S1067,Omar Alsubaie,Female,18,11,3.74,80,55,100,88,bad,yes,Riyad,Bright Academy,11/28/2021
+S1068,Ali Alharbi,FEMALE,15,10,2.2,80,85,60,104.4,bad,Y,jedda,Bright Academy,4/3/2021
+S1069,Khalid Alharbi,male,-1,10,2.59,80,75,50,95.8, ,TRUE,Riyadh,Bright Academy,11/19/2022
+S1070,Nora Alshammari,FEMALE,17,11,2.95,90,65,60,82.3,bad,N,Jeddah,Bright academy,10/19/2022
+S1071,Khalid Alshehri,FEMALE,16,12,2.18,80,nan,,88.9,Excellent,Y,JEDDAH,Future School,6/3/2022
+S1072,Nora Alshammari,Male,18,12,2.91,80,65,80,85.9,bad,Yes,Riyadh,Bright academy,9/26/2021
+S1073,Lama Alshammari,FEMALE,16,12,3.83,60,65,80,84.9,bad,Y,Riyad,Bright Academy,1/11/2022
+S1074,Nora Alotaibi,F,18,12,3.01,70,55,70,101.8,Average,Y,JEDDAH,Future  School,4/14/2023
+S1075,Faisal Alsubaie,M,15,10,3.12,80,75,60,78.3,Excellent,no,Dammam,Bright academy,1/4/2021
+S1076,Ahmed Alqahtani,FEMALE,17,11,2.37,70,seventy,80,108.1, ,yes,riyadh,Bright Academy,5/18/2021
+S1077,Nora Alsubaie,FEMALE,17,10,2.69,60,75,70,100.3,Average,No,JEDDAH,Bright Academy,8/19/2021
+S1078,Ali Alqahtani,Male,15,10,2.81,70,75,80,102.9, ,Yes,JEDDAH,Future  School,8/23/2022
+S1079,Lama Alqahtani,male,16,11,2.84,60,55,70,87.4,Average,no,JEDDAH,Bright Academy,6/13/2022
+S1080,Reem Alshehri,M,15,11,3.64,60,65,80,90.5,Needs Improvement,N,Riyad,Future School,2/21/2021
+S1081,Khalid Alshammari,FEMALE,16,10,3.28,70,55,70,77.7, ,Yes,Riyad,Future  School,10/8/2022
+S1082,Layla Alsubaie,M,16,12,2.44,90,75,60,86.8,Excellent,N,Jeddah,Future  School,12/24/2022
+S1083,Lama Alotaibi,male,17,12,3.12,70,85,100,96.9, ,No,Riyad,Future School,11/21/2021
+S1084,Lama Alqahtani,Female,16,10,3.25,60,75,70,105,Needs Improvement,FALSE,Jeddah,Future School,9/19/2023
+S1085,Reem Alharbi,male,16,11,3.57,60,55,70,80.9,bad,no,Jeddah,Future School,8/28/2023
+S1086,Lama Aldosari,MALE,17,11,3.79,80,65,50,88.3, ,no,riyadh,Future School,6/24/2023
+S1087,Layla Alghamdi,MALE,15,12,2.49,70,75,70,90.5,Excellent,yes,Riyad,Future School,1/1/2023
+S1088,Reem Alshehri,Male,200,12,2.59,80,65,70,78,Average,No,Jeddah,Bright academy,12/18/2022
+S1089,Reem Alsubaie,Male,18,10,2.37,80,75,50,97.9,bad,yes,JEDDAH,Future  School,12/24/2022
+S1090,Nora Alghamdi,FEMALE,17,12,2.88,80,75,50,84.8, ,No,jedda,Future  School,10/4/2021
+S1091,Ali Aldosari,male,17,10,3.23,70,75,70,90,Needs Improvement,yes,Riyad,Bright academy,6/20/2022
+S1092,Lama Alotaibi,male,18,11,3.49,80,65,80,87.5,Excellent,yes,riyadh,Future School,5/1/2022
+S1093,Sara Alzahrani,FEMALE,15,11,2.96,70,65,70,84.1,Good,No,JEDDAH,Future  School,5/31/2022
+S1094,Layla Alqahtani,female,15,10,2.84,90,55,50,91.9,Needs Improvement,FALSE,jedda,Bright academy,6/1/2021
+S1095,Omar Alharbi,F,16,11,3.08,80,65,70,89.8,Good,No,Riyadh,Future  School,8/13/2023
+S1096,Nora Alqahtani,MALE,17,12,2.58,70,65,50,88.3,bad,TRUE,jedda,Future School,4/28/2022
+S1097,Reem Alotaibi,MALE,15,11,4.04,70,75,60,84.7, ,yes,Riyad,Future  School,9/16/2021
+S1098,Reem Alshammari,F,17,10,2.2,60,75,50,95.2,Excellent,Y,riyadh,Future School,11/20/2021
+S1099,Ahmed Alshehri,FEMALE,-1,12,3.09,80,55,50,108.5,Excellent,N,riyadh,Bright Academy,5/19/2023
+S1100,Lama Alotaibi,M,18,12,4.01,60,65,50,93.4,Good,N,JEDDAH,Future School,6/17/2021
+S1101,Omar Alharbi,female,17,10,3,80,55,60,102,Needs Improvement,TRUE,JEDDAH,Bright Academy,11/19/2022
+S1102,Sara Alsubaie,female,15,12,2.9,70,55,50,78.1,bad,No,jedda,Future  School,11/6/2021
+S1103,Khalid Alotaibi,Female,18,12,2.82,80,75,60,93.6,Average,Yes,riyadh,Future School,3/14/2023
+S1104,Khalid Almutairi,female,17,10,2.91,80,nan,70,81,Excellent,N,riyadh,Bright Academy,4/24/2022
+S1105,Lama Alharbi,Male,15,12,3.69,80,65,60,77.2,Average,N,JEDDAH,Future  School,2/25/2021
+S1106,Ali Alzahrani,Male,15,12,1.89,80,55,60,84.6,Excellent,FALSE,Dammam,Bright Academy,9/12/2022
+S1107,Layla Aldosari,MALE,200,10,3.77,60,85,80,103.9,Good,No,Jeddah,Bright Academy,4/18/2022
+S1108,Ahmed Alqahtani,FEMALE,17,11,2.29,60,75,50,101.5,Excellent,no,Riyad,Bright Academy,10/23/2021
+S1109,Ali Alghamdi,Male,18,12,2.87,80,55,70,94.4,Excellent,Y,riyadh,Future School,4/6/2022
+S1110,Layla Alshammari,male,18,10,2.79,70,65,50,76.7, ,N,Dammam,Future School,11/20/2021
+S1111,Sara Alsubaie,F,17,10,3.29,70,75,50,90,Needs Improvement,Y,Dammam,Future  School,3/25/2023
+S1112,Omar Alotaibi,F,17,12,2.2,nan,seventy,70,95,Average,Y,Dammam,Future School,4/26/2023
+S1113,Faisal Alzahrani,MALE,16,10,3.23,70,55,70,93.8,Needs Improvement,Yes,riyadh,Bright academy,5/21/2021
+S1114,Reem Aldosari,M,16,12,4.01,nan,85,80,73.6,Excellent,Y,Jeddah,Bright Academy,10/29/2022
+S1115,Nora Alzahrani,FEMALE,16,10,2.32,90,85,70,83.1, ,no,Dammam,Bright Academy,9/19/2021
+S1116,Omar Alshehri,male,17,12,3.09,60,85,100,91.4,bad,Y,jedda,Future  School,2/24/2023
+S1117,Ahmed Almutairi,Female,17,12,2.67,80,75,,97.4,bad,No,JEDDAH,Bright academy,2/24/2022
+S1118,Ahmed Alshehri,Female,18,11,3.21,nan,75,50,70,Needs Improvement,TRUE,Jeddah,Future School,1/14/2023
+S1119,Khalid Alshammari,F,16,10,3.01,80,65,,90.4, ,Y,jedda,Future School,8/29/2021
+S1120,Khalid Alshammari,F,17,11,2.68,70,75,50,93.4,bad,FALSE,jedda,Bright academy,12/21/2021
+S1121,Reem Alshammari,M,17,10,3.24,90,65,70,100.5, ,no,Riyadh,Bright Academy,4/29/2023
+S1122,Ali Alqahtani,female,17,12,3.9,90,75,70,98.9,bad,TRUE,Dammam,Bright academy,2/9/2023
+S1123,Omar Alotaibi,male,17,12,2.9,70,65,,97.8,Average,N,riyadh,Future School,1/31/2023
+S1124,Ali Alsubaie,M,16,12,3.36,90,75,100,84,bad,TRUE,Dammam,Bright academy,8/12/2022
+S1125,Khalid Alghamdi,Male,17,10,2.35,eighty,75,80,72.9,Good,Y,riyadh,Future School,6/29/2021
+S1126,Omar Almutairi,F,15,11,2.52,80,55,60,88.1, ,FALSE,Jeddah,Bright Academy,3/7/2021
+S1127,Reem Alshehri,Male,16,11,3.24,80,75,50,102,Average,Y,JEDDAH,Bright academy,3/31/2023
+S1128,Omar Alotaibi,Male,16,12,3.74,60,65,50,105.9,Excellent,No,Riyadh,Future School,12/14/2021
+S1129,Layla Alshammari,FEMALE,17,10,3.18,80,75,50,99.1, ,No,JEDDAH,Future School,6/20/2021
+S1130,Khalid Almutairi,M,-1,12,2.84,60,65,50,96.3,bad,Y,jedda,Bright Academy,4/19/2022
+S1131,Reem Alshammari,male,17,10,3,60,65,70,95.8,Good,TRUE,Jeddah,Bright Academy,6/18/2022
+S1132,Lama Aldosari,M,17,12,2.37,eighty,85,50,86.4,bad,N,riyadh,Future  School,1/2/2022
+S1133,Reem Alshammari,male,17,11,3.3,70,65,60,90.7,Needs Improvement,no,Riyad,Bright Academy,4/17/2021
+S1134,Khalid Alqahtani,Male,17,11,3.44,80,75,100,108.7,Good,Yes,jedda,Bright academy,3/15/2022
+S1135,Layla Almutairi,MALE,15,12,2.77,80,65,70,82.6,bad,yes,riyadh,Future School,4/15/2023
+S1136,Faisal Alshehri,female,16,12,2.76,90,65,100,108.1,bad,yes,Riyad,Bright academy,8/15/2021
+S1137,Reem Almutairi,Male,16,11,3.13,eighty,65,50,88.8,Average,no,Riyadh,Future  School,3/20/2022
+S1138,Omar Almutairi,F,16,10,2.78,60,75,60,105.3, ,yes,Riyadh,Future School,3/18/2022
+S1139,Omar Aldosari,F,15,12,2.97,nan,65,70,77.9,Average,N,jedda,Bright academy,1/31/2022
+S1140,Faisal Alshammari,Female,15,10,4.05,70,nan,50,97.9,Needs Improvement,FALSE,Riyadh,Future School,12/29/2022
+S1141,Reem Aldosari,female,16,10,2.88,60,65,,84.6,bad,no,Riyad,Bright Academy,8/4/2022
+S1142,Khalid Almutairi,M,-1,12,2.82,nan,nan,70,77.8,Excellent,Yes,jedda,Bright Academy,3/25/2021
+S1143,Sara Alotaibi,Male,16,12,2.68,70,seventy,70,94.2, ,no,Dammam,Future  School,9/7/2022
+S1144,Omar Alghamdi,FEMALE,16,10,3.37,80,seventy,60,102.1,Average,N,JEDDAH,Future School,7/5/2022
+S1145,Reem Alotaibi,FEMALE,15,11,2.91,80,65,60,83.6,Good,N,riyadh,Bright Academy,1/13/2021
+S1146,Nora Aldosari,Male,17,12,2.68,70,75,60,77,Excellent,TRUE,Dammam,Future  School,3/20/2023
+S1147,Khalid Almutairi,Female,16,12,3.66,80,65,,91.1,Excellent,no,Riyad,Future School,4/5/2023
+S1148,Khalid Alzahrani,FEMALE,16,10,3.71,60,75,60,91.1, ,Yes,Riyadh,Future  School,11/24/2022
+S1149,Layla Almutairi,Male,17,11,2.7,nan,75,50,97.5,bad,Yes,jedda,Future  School,5/8/2022
+S1150,Khalid Alshehri,Male,15,10,2.07,80,85,50,101.5,Average,TRUE,Riyadh,Future  School,9/25/2021
+S1151,Reem Alghamdi,Male,15,10,3.5,80,65,100,91.4,Excellent,no,Jeddah,Bright Academy,6/9/2022
+S1152,Ali Alzahrani,male,16,10,2.66,80,75,70,110.6,Good,yes,jedda,Bright academy,4/30/2021
+S1153,Lama Alshehri,Male,15,11,3.4,nan,65,70,94.2, ,yes,Jeddah,Bright Academy,8/28/2023
+S1154,Ahmed Alharbi,Male,15,11,2.01,80,seventy,60,88.5, ,Y,riyadh,Bright Academy,12/19/2021
+S1155,Sara Almutairi,F,16,12,3.45,80,nan,60,75.9,Needs Improvement,FALSE,Dammam,Bright Academy,2/26/2021
+S1156,Layla Alqahtani,Female,18,11,2.39,80,75,50,89.4,Average,TRUE,Riyad,Future School,2/9/2021
+S1157,Khalid Alharbi,F,17,10,3.37,80,75,50,88.6, ,no,jedda,Future  School,6/5/2023
+S1158,Lama Alharbi,F,17,11,3.01,90,75,50,101.6,bad,no,JEDDAH,Bright academy,12/2/2021
+S1159,Layla Alsubaie,F,16,11,2.52,80,55,80,96.6,bad,No,Riyad,Bright academy,10/2/2022
+S1160,Omar Almutairi,male,200,10,2.8,80,85,70,80.2,bad,Y,Dammam,Future  School,6/22/2021
+S1161,Lama Alsubaie,Male,16,10,3.34,eighty,55,70,93.7,Average,yes,Riyadh,Future School,7/1/2022
+S1162,Layla Alshammari,female,15,12,3.05,80,75,60,98.7,bad,no,Riyad,Future School,9/16/2021
+S1163,Ali Almutairi,MALE,17,10,3.29,70,55,100,107.3,bad,N,Riyadh,Future School,6/7/2023
+S1164,Khalid Alghamdi,M,15,10,3.99,80,65,50,100.9,Average,FALSE,Dammam,Future  School,6/1/2022
+S1165,Faisal Alharbi,Male,16,12,2.22,70,65,60,99.6, ,no,JEDDAH,Bright Academy,12/31/2022
+S1166,Omar Aldosari,F,17,12,3.81,60,65,60,92.6,Good,Y,riyadh,Bright Academy,6/7/2022
+S1167,Ahmed Alshehri,male,18,12,3.05,80,55,80,95.9,Needs Improvement,N,Riyad,Bright academy,6/13/2023
+S1168,Sara Almutairi,M,16,10,2.55,90,55,100,104.5,Good,Y,Dammam,Future School,4/19/2023
+S1169,Faisal Alsubaie,female,17,11,2.33,90,65,50,78.7,Excellent,Y,JEDDAH,Future School,4/27/2021
+S1170,Nora Alharbi,M,-1,11,2.91,70,75,80,88.5,Needs Improvement,Y,Riyad,Bright academy,7/3/2021
+S1171,Ali Alqahtani,F,15,11,3.46,70,85,80,84.3,Needs Improvement,TRUE,Riyadh,Bright Academy,6/25/2023
+S1172,Lama Alharbi,Female,16,11,2.94,60,55,50,95.8, ,No,jedda,Future School,5/24/2023
+S1173,Faisal Alsubaie,Male,16,10,3.76,eighty,65,60,104.3, ,N,Riyadh,Future  School,4/26/2021
+S1174,Reem Alghamdi,F,16,10,2.27,eighty,55,60,86, ,no,Riyad,Future School,6/11/2021
+S1175,Lama Alshehri,FEMALE,16,10,2.99,80,nan,100,68.1,Average,Y,Dammam,Future School,8/2/2022
+S1176,Ahmed Alzahrani,MALE,200,10,2.37,80,75,50,87.9,Average,Y,jedda,Bright academy,12/13/2022
+S1177,Ali Alghamdi,male,17,11,3.18,80,75,80,101.1,Average,N,Jeddah,Future  School,6/27/2022
+S1178,Khalid Alotaibi,FEMALE,17,12,3.44,80,55,60,97.4,Excellent,no,JEDDAH,Bright Academy,8/10/2022
+S1179,Layla Alharbi,Male,16,12,2.79,60,55,70,96.3,Average,yes,riyadh,Bright Academy,8/25/2021
+S1180,Sara Alqahtani,male,18,12,1.7,70,nan,60,89.2,Average,TRUE,JEDDAH,Future School,4/19/2023
+S1181,Layla Aldosari,Female,-1,10,3.1,80,75,70,79.2, ,yes,Riyadh,Future School,3/7/2021
+S1182,Nora Alshehri,Male,18,11,3.22,80,seventy,80,97.2,bad,Y,JEDDAH,Bright Academy,3/11/2021
+S1183,Reem Alotaibi,male,15,12,3.2,70,55,80,83.7, ,TRUE,Dammam,Future School,3/20/2023
+S1184,Ahmed Aldosari,FEMALE,17,11,3.62,90,55,80,113.8,bad,Y,jedda,Bright Academy,3/23/2022
+S1185,Reem Alotaibi,MALE,15,11,2.46,60,85,50,97.7,Good,yes,JEDDAH,Future  School,2/20/2022
+S1186,Nora Alshehri,male,16,10,3.34,70,85,70,86.2,Average,Y,Riyadh,Bright Academy,6/16/2022
+S1187,Layla Aldosari,FEMALE,15,11,3.6,80,65,50,85.9,Needs Improvement,Yes,riyadh,Future  School,3/17/2022
+S1188,Khalid Alshehri,M,17,10,2.11,80,55,60,91.1, ,Yes,Dammam,Future  School,1/8/2023
+S1189,Layla Alzahrani,male,17,10,3.16,80,nan,70,89.6,Needs Improvement,N,Jeddah,Bright Academy,8/4/2023
+S1190,Faisal Alqahtani,Male,15,11,2.75,70,75,60,103.2,Average,yes,Riyadh,Future  School,4/9/2022
+S1191,Lama Alharbi,F,16,10,2.96,60,65,70,93.9,Good,no,JEDDAH,Bright academy,7/10/2023
+S1192,Nora Alqahtani,Female,16,11,3.17,80,nan,100,84.7,Good,Y,JEDDAH,Bright Academy,1/31/2022
+S1193,Omar Alsubaie,MALE,16,11,2.76,80,75,50,110.9,Excellent,yes,jedda,Bright Academy,12/12/2022
+S1194,Ahmed Alotaibi,Female,15,11,2.66,60,nan,70,92.5,Needs Improvement,Y,JEDDAH,Bright Academy,7/5/2022
+S1195,Nora Alqahtani,MALE,16,12,3.02,80,75,60,99.7,Needs Improvement,N,Riyadh,Future School,10/19/2022
+S1196,Layla Alharbi,MALE,17,12,2.46,70,65,50,85.9, ,TRUE,Jeddah,Future  School,7/11/2022
+S1197,Faisal Alqahtani,FEMALE,15,12,2.46,80,nan,50,95.6,bad,TRUE,Dammam,Bright Academy,1/30/2022
+S1198,Nora Almutairi,MALE,15,10,3.34,80,75,100,95.1,Needs Improvement,TRUE,jedda,Bright Academy,11/22/2021
+S1199,Reem Alsubaie,male,16,11,2.43,60,65,80,73.1,Excellent,Y,Jeddah,Future School,6/12/2023
+S1200,Reem Aldosari,male,200,11,3.33,nan,seventy,100,112.2,bad,yes,Riyadh,Future School,7/8/2023
+S1201,Ahmed Alharbi,F,17,11,3.23,80,65,100,104.9,Good,Yes,Dammam,Bright academy,4/1/2021
+S1202,Lama Aldosari,F,17,10,2.14,80,65,50,88,bad,Y,Jeddah,Future  School,1/20/2023
+S1203,Faisal Alharbi,M,16,12,2.66,80,75,60,81,Excellent,Yes,Dammam,Bright Academy,3/11/2021
+S1204,Ali Alsubaie,MALE,17,11,3.6,80,65,70,95.5,Good,N,JEDDAH,Bright academy,6/15/2021
+S1205,Khalid Alghamdi,FEMALE,15,12,2.51,80,85,60,92.9,Needs Improvement,yes,riyadh,Bright Academy,10/4/2022
+S1206,Ahmed Alotaibi,female,17,12,2.77,eighty,65,60,95.6,Good,FALSE,Riyad,Bright Academy,8/2/2021
+S1207,Ahmed Alqahtani,male,200,12,3.23,70,65,60,93.9,Excellent,Y,jedda,Bright academy,5/2/2023
+S1208,Layla Alghamdi,F,17,11,3.39,70,55,70,97.1,Excellent,Yes,JEDDAH,Future  School,8/24/2022
+S1209,Khalid Alghamdi,M,18,12,2.87,70,65,70,106.5, ,FALSE,riyadh,Future School,12/1/2021
+S1210,Ali Alzahrani,Male,17,10,2.7,60,75,50,97.7,Excellent,Yes,jedda,Future  School,2/3/2023
+S1211,Layla Alharbi,female,15,10,3.71,80,75,60,81.5,Needs Improvement,Yes,Riyadh,Bright academy,1/4/2022
+S1212,Faisal Alqahtani,male,200,12,3.87,70,55,70,105.6,bad,N,riyadh,Future  School,5/11/2023
+S1213,Omar Alghamdi,MALE,15,11,3.49,90,55,70,108.4,Excellent,yes,Riyad,Future School,8/7/2022
+S1214,Layla Alharbi,F,17,10,3.04,80,75,50,123.5, ,FALSE,jedda,Bright academy,11/8/2022
+S1215,Faisal Alzahrani,male,15,11,2.6,80,85,70,80.8,bad,Y,Dammam,Future School,2/18/2021
+S1216,Sara Almutairi,female,15,12,2.58,70,55,,94.4,Needs Improvement,Y,Riyadh,Future  School,2/21/2021
+S1217,Layla Alshammari,FEMALE,16,10,3.26,60,65,60,71.2,Good,Y,jedda,Bright academy,10/16/2021
+S1218,Khalid Aldosari,M,16,12,3.21,nan,65,80,97.5,bad,No,Riyad,Future  School,3/1/2023
+S1219,Faisal Alqahtani,FEMALE,16,10,3.7,70,85,70,86.5, ,yes,riyadh,Future School,9/18/2022
+S1220,Ahmed Aldosari,Female,17,12,3.33,60,55,60,111.2,Good,Yes,Jeddah,Future  School,8/27/2021
+S1221,Layla Alshammari,Female,15,10,2.25,80,55,70,84.3,Excellent,TRUE,Riyadh,Bright Academy,5/13/2021
+S1222,Lama Alghamdi,male,15,10,3.53,90,75,70,75.1,Good,yes,JEDDAH,Future  School,9/26/2023
+S1223,Nora Alshammari,FEMALE,17,10,2.5,90,55,80,87.3,Good,Y,Jeddah,Bright academy,2/25/2023
+S1224,Lama Alghamdi,female,16,10,2.81,80,65,70,72.2,Good,yes,Dammam,Future School,6/15/2021
+S1225,Ahmed Alshammari,M,17,11,3.13,60,65,70,99.5,Needs Improvement,no,riyadh,Bright academy,1/9/2022
+S1226,Layla Alshammari,male,17,12,4,90,65,60,71.3,Good,No,riyadh,Future  School,1/8/2022
+S1227,Reem Alshehri,female,18,10,4.55,90,65,50,92.3,bad,no,Riyadh,Bright academy,3/16/2023
+S1228,Reem Alsubaie,male,17,11,3.3,60,65,60,71.2,Average,No,riyadh,Future School,4/23/2022
+S1229,Omar Alotaibi,male,16,12,2.91,80,55,60,88.8, ,Yes,Dammam,Future School,1/25/2023
+S1230,Faisal Alqahtani,Male,17,11,3.27,70,75,70,108.4, ,no,jedda,Bright academy,4/24/2022
+S1231,Lama Alghamdi,FEMALE,16,11,3.44,80,75,70,95.6,bad,no,Jeddah,Bright academy,4/12/2023
+S1232,Layla Alqahtani,Male,16,10,2.84,eighty,75,60,83.4,Average,Y,Riyadh,Future  School,10/12/2022
+S1233,Faisal Almutairi,M,17,10,3.9,nan,55,,91.7,Good,No,JEDDAH,Bright academy,8/14/2022
+S1234,Khalid Alqahtani,F,16,12,3.12,90,55,60,92.2,Excellent,Yes,Jeddah,Bright academy,11/13/2022
+S1235,Ali Almutairi,male,17,11,3.25,80,65,60,96.7, ,TRUE,riyadh,Future  School,9/27/2022
+S1236,Reem Alzahrani,F,18,12,3.33,eighty,65,70,78.3,Good,TRUE,Riyad,Future  School,11/19/2022
+S1237,Layla Alqahtani,male,18,12,3.21,70,65,,97.9,Good,Yes,JEDDAH,Future  School,10/27/2021
+S1238,Lama Alsubaie,FEMALE,200,10,3.42,80,75,70,65,Needs Improvement,TRUE,Riyad,Bright academy,3/23/2021
+S1239,Faisal Alghamdi,F,16,10,2.69,60,55,100,85.7,bad,No,riyadh,Future School,3/28/2021
+S1240,Nora Alotaibi,Female,16,12,2.72,70,nan,50,87.1, ,no,Riyadh,Bright academy,8/13/2021
+S1241,Faisal Alharbi,FEMALE,17,10,2.45,60,65,60,98.3,Excellent,no,Riyadh,Bright Academy,1/16/2021
+S1242,Faisal Alsubaie,M,16,11,3.22,eighty,75,50,92.2, ,Yes,riyadh,Bright Academy,4/2/2023
+S1243,Omar Alsubaie,female,17,11,3.39,80,55,70,77.9,bad,No,Dammam,Future  School,12/24/2021
+S1244,Reem Alharbi,Female,17,10,3.23,90,75,70,82.2,Average,TRUE,JEDDAH,Bright academy,6/12/2021
+S1245,Reem Alzahrani,MALE,17,11,3.84,90,65,60,94,Excellent,FALSE,JEDDAH,Bright academy,9/2/2022
+S1246,Ahmed Alharbi,male,16,11,3,60,85,70,91.2,Excellent,N,riyadh,Future School,10/30/2022
+S1247,Layla Alsubaie,MALE,15,12,3.33,70,85,80,86.2,Average,No,Dammam,Future  School,5/29/2022
+S1248,Lama Alsubaie,Male,16,11,2.45,60,65,50,87.2,Needs Improvement,FALSE,JEDDAH,Bright academy,12/16/2021
+S1249,Khalid Alshammari,male,15,10,2.81,60,55,,99,Average,FALSE,Riyad,Bright Academy,6/28/2023
+S1250,Reem Alghamdi,male,18,12,3.35,60,65,80,86.8,bad,Y,Riyadh,Bright academy,11/12/2022
+S1251,Lama Alshammari,F,16,11,3.42,70,55,70,91.1, ,N,Dammam,Future  School,4/9/2022
+S1252,Ahmed Almutairi,male,15,10,2.85,70,75,80,113.7,Average,yes,jedda,Future School,4/7/2023
+S1253,Nora Alshammari,male,15,10,2.96,60,75,70,77.8,Good,yes,Dammam,Bright Academy,4/17/2023
+S1254,Nora Alharbi,MALE,17,11,2.24,60,75,80,73.5,Excellent,Yes,Riyad,Future School,1/10/2022
+S1255,Lama Alshehri,MALE,17,11,2.82,60,75,60,99.8,Needs Improvement,TRUE,Jeddah,Future  School,4/2/2021
+S1256,Reem Alqahtani,F,16,10,3.45,eighty,65,70,85.2,bad,No,riyadh,Bright Academy,6/30/2021
+S1257,Reem Alharbi,Male,15,11,3.29,80,55,100,88.8,bad,yes,JEDDAH,Bright academy,1/13/2023
+S1258,Reem Alghamdi,Male,16,12,3.25,eighty,75,70,84.2,Average,Y,Jeddah,Future School,10/28/2021
+S1259,Lama Alshammari,male,16,11,3.02,70,65,50,89.4,Excellent,yes,Jeddah,Future  School,10/22/2022
+S1260,Layla Aldosari,Female,17,10,3,70,75,60,108,Average,N,riyadh,Future School,3/3/2023
+S1261,Ali Alsubaie,M,17,12,2.67,80,65,50,100,Good,Y,Dammam,Future  School,7/8/2021
+S1262,Lama Alharbi,Male,16,11,3.35,70,55,50,100.6,Average,FALSE,Riyad,Future  School,5/9/2023
+S1263,Layla Almutairi,female,16,10,3.21,70,seventy,60,77.8,Good,FALSE,Riyad,Future  School,5/12/2023
+S1264,Faisal Alshammari,FEMALE,-1,10,3.25,60,55,70,80.5,Average,no,jedda,Future School,11/10/2021
+S1265,Sara Aldosari,male,16,12,2.74,60,seventy,70,63.6,bad,FALSE,JEDDAH,Future  School,5/8/2022
+S1266,Nora Alghamdi,Male,17,11,1.92,70,seventy,60,83.9,Excellent,No,JEDDAH,Future School,7/12/2023
+S1267,Nora Alzahrani,Male,15,11,3.55,70,75,70,101.6,Excellent,Y,Dammam,Future School,7/11/2023
+S1268,Ali Alsubaie,female,16,11,2.76,80,75,50,97.2,Good,no,Riyad,Future School,5/8/2021
+S1269,Khalid Alotaibi,Male,15,10,2.57,60,75,50,89.8,Good,No,Riyad,Bright academy,6/3/2022
+S1270,Ali Almutairi,M,17,10,3.35,60,85,50,91.8,Good,yes,Riyad,Future  School,3/2/2022
+S1271,Reem Aldosari,M,-1,10,2.8,80,65,70,85.1,bad,FALSE,Riyad,Bright Academy,7/13/2022
+S1272,Nora Almutairi,M,16,11,3.53,60,65,50,94,Excellent,Yes,jedda,Bright academy,7/19/2022
+S1273,Reem Alotaibi,MALE,15,12,3.31,70,75,60,99.7,bad,No,Riyadh,Future School,7/6/2021
+S1274,Khalid Alzahrani,Male,15,11,3.34,90,65,60,75.8, ,Y,JEDDAH,Bright academy,7/4/2022
+S1275,Lama Alotaibi,Male,16,11,2.32,60,65,80,95,Good,N,Riyadh,Future School,3/29/2022
+S1276,Ali Alghamdi,female,15,12,3.61,60,65,,101.3,Excellent,no,Jeddah,Bright Academy,4/16/2022
+S1277,Lama Alshehri,male,15,10,3.13,70,75,70,87.8,bad,No,riyadh,Future  School,9/15/2023
+S1278,Sara Alsubaie,MALE,17,11,2.82,70,85,70,99, ,TRUE,Riyadh,Bright Academy,1/8/2023
+S1279,Reem Alghamdi,FEMALE,16,10,3.07,80,55,80,120.1,Average,Yes,Jeddah,Future  School,7/19/2022
+S1280,Sara Almutairi,Female,16,12,2.11,80,85,100,91,Good,FALSE,Riyad,Future School,6/30/2023
+S1281,Nora Alshehri,M,200,10,3.2,60,75,,95.9,Needs Improvement,FALSE,Riyadh,Future  School,8/12/2021
+S1282,Reem Alshammari,MALE,15,10,2.49,80,75,50,84.6,Excellent,yes,riyadh,Future School,6/3/2021
+S1283,Lama Alzahrani,FEMALE,-1,12,2.32,70,75,80,93.8,Needs Improvement,No,Riyadh,Bright Academy,7/14/2022
+S1284,Reem Almutairi,Female,16,12,2.24,60,75,60,96.6,Good,Y,jedda,Bright academy,12/17/2021
+S1285,Reem Alshammari,female,18,10,3.56,80,nan,70,93.9,Excellent,Yes,riyadh,Bright Academy,5/27/2021
+S1286,Nora Aldosari,FEMALE,17,10,2.69,70,75,70,81.8,Average,N,Dammam,Future School,6/24/2023
+S1287,Layla Alotaibi,F,18,12,3.77,70,nan,70,94.1,bad,TRUE,jedda,Bright academy,7/30/2022
+S1288,Reem Alshehri,Male,-1,12,2.73,60,85,100,106.6,Good,yes,Riyadh,Bright academy,12/15/2021
+S1289,Lama Alzahrani,female,16,11,2.15,70,seventy,100,96.5,Excellent,TRUE,Jeddah,Bright Academy,7/1/2021
+S1290,Ali Aldosari,F,-1,12,2.44,70,65,70,101.6, ,Yes,riyadh,Bright Academy,9/29/2022
+S1291,Ahmed Almutairi,Male,16,11,3.62,80,55,60,89.6,Average,no,Dammam,Future  School,6/28/2021
+S1292,Nora Alzahrani,male,16,12,2.92,60,75,80,99.5,Average,FALSE,riyadh,Bright academy,2/8/2021
+S1293,Lama Alharbi,M,16,11,2.73,70,65,,94.8,Average,No,jedda,Future School,2/11/2023
+S1294,Omar Alharbi,M,17,12,3.08,70,85,50,82.5,Average,no,Riyadh,Bright Academy,6/13/2023
+S1295,Lama Alghamdi,MALE,15,11,3.25,80,55,80,95.2, ,Y,riyadh,Bright Academy,1/3/2021
+S1296,Omar Alshammari,Female,17,12,3.56,80,55,60,82.1, ,Y,Jeddah,Future  School,3/5/2021
+S1297,Ahmed Alshehri,male,17,12,3.72,80,seventy,50,85.7, ,N,JEDDAH,Bright Academy,1/29/2021
+S1298,Omar Alharbi,male,17,12,2.82,80,75,50,93.9,bad,yes,Jeddah,Bright Academy,1/7/2022
+S1299,Lama Alghamdi,M,18,10,2.34,90,75,80,95,Excellent,Y,Jeddah,Future School,6/7/2022
+S1300,Ali Alghamdi,female,16,12,2.79,70,65,70,80.1,Excellent,N,Riyad,Future School,4/7/2021
+S1301,Ahmed Alharbi,Male,16,11,3.13,70,75,70,102.5,bad,yes,JEDDAH,Bright Academy,5/20/2023
+S1302,Faisal Alshehri,Male,16,10,2.52,80,75,50,97.7,Average,Y,Jeddah,Bright academy,3/18/2022
+S1303,Sara Alharbi,male,15,11,2.52,eighty,75,80,85,bad,yes,Riyadh,Bright Academy,7/22/2021
+S1304,Layla Alqahtani,M,15,12,3.17,90,75,80,76.6, ,no,JEDDAH,Future School,2/15/2022
+S1305,Ahmed Alqahtani,MALE,16,11,2.98,70,75,60,90.6,Excellent,Y,JEDDAH,Bright academy,9/20/2023
+S1306,Faisal Alghamdi,male,16,10,3.02,60,65,60,87.5,bad,yes,Riyadh,Bright academy,1/21/2021
+S1307,Ali Alqahtani,female,-1,11,2.62,70,65,50,93.1,Good,TRUE,JEDDAH,Bright academy,7/5/2022
+S1308,Omar Almutairi,M,17,12,2.88,80,75,100,88.4,Excellent,no,JEDDAH,Bright Academy,1/5/2023
+S1309,Ahmed Alzahrani,M,16,12,2.54,70,55,70,71.9,bad,Y,Riyadh,Future  School,4/12/2021
+S1310,Khalid Alshehri,M,17,10,3.45,70,75,100,88.1,Average,Yes,JEDDAH,Future  School,2/15/2021
+S1311,Reem Alshehri,F,15,12,3.52,80,55,60,88.9,Excellent,N,riyadh,Future  School,3/7/2021
+S1312,Omar Alotaibi,male,16,12,2.08,70,75,80,98.3,Needs Improvement,Yes,Riyad,Future School,8/26/2022
+S1313,Omar Alghamdi,Female,17,11,2.54,90,75,80,85, ,yes,Dammam,Future School,6/13/2021
+S1314,Ahmed Alotaibi,M,16,10,2.25,70,55,70,108.8, ,no,Dammam,Bright Academy,8/29/2023
+S1315,Omar Alqahtani,MALE,16,10,2.67,70,55,100,72.9, ,N,Riyad,Bright Academy,4/21/2021
+S1316,Ali Alshehri,MALE,-1,12,2.96,70,55,60,105.1,Excellent,FALSE,JEDDAH,Bright Academy,12/4/2021
+S1317,Khalid Alqahtani,F,18,10,2.28,80,75,50,89.8,Average,TRUE,Riyad,Bright Academy,5/3/2021
+S1318,Layla Almutairi,female,17,11,2.54,60,75,70,100.6,Needs Improvement,no,Riyadh,Future School,12/6/2022
+S1319,Reem Alshammari,MALE,17,12,2.5,60,nan,70,92.8,bad,TRUE,jedda,Bright Academy,3/23/2022
+S1320,Khalid Alharbi,F,17,12,3.1,eighty,75,70,103.4,Excellent,Y,Dammam,Bright academy,9/3/2022
+S1321,Omar Alzahrani,FEMALE,16,10,3.03,60,65,50,88.1,Average,Y,Jeddah,Future School,10/18/2021
+S1322,Ali Alshehri,Male,16,11,2.64,80,65,70,81,bad,Yes,jedda,Future  School,11/2/2022
+S1323,Faisal Alghamdi,M,15,10,3.09,80,85,60,106.2,Good,FALSE,Riyad,Bright Academy,2/16/2022
+S1324,Omar Alshammari,MALE,16,10,2.73,70,65,60,90.9,Good,No,Jeddah,Bright academy,9/7/2022
+S1325,Ahmed Alotaibi,Female,17,10,2.86,80,65,70,94.2,Excellent,Yes,Riyadh,Future School,6/16/2023
+S1326,Omar Alqahtani,female,16,12,3.84,60,nan,70,104.3,bad,N,Riyad,Bright academy,10/8/2021
+S1327,Nora Alghamdi,F,-1,10,3.67,80,55,50,81.7,Good,yes,jedda,Bright academy,2/12/2021
+S1328,Faisal Aldosari,MALE,200,10,2.35,70,65,60,98,Average,N,jedda,Bright academy,5/1/2022
+S1329,Lama Alzahrani,F,17,12,3.41,80,nan,60,86.1,bad,Yes,Riyadh,Bright academy,8/19/2022
+S1330,Khalid Alotaibi,Female,17,10,3.41,60,75,50,90.7,Average,no,Dammam,Future  School,8/21/2023
+S1331,Ahmed Alotaibi,female,18,11,2.43,80,65,80,92.7,bad,Yes,Jeddah,Bright Academy,12/4/2022
+S1332,Reem Alsubaie,MALE,15,11,3.41,60,65,100,77,Needs Improvement,TRUE,Jeddah,Future  School,2/20/2021
+S1333,Khalid Alotaibi,MALE,17,10,3.77,70,55,60,84.2,bad,TRUE,Riyadh,Bright academy,6/17/2023
+S1334,Layla Almutairi,M,15,10,2.44,60,65,80,105.5,Good,Y,Jeddah,Future School,7/29/2021
+S1335,Lama Alsubaie,M,17,10,2.54,60,75,80,100.9, ,N,Riyadh,Bright Academy,5/6/2021
+S1336,Reem Alharbi,M,16,12,3.51,80,seventy,80,91.4,Needs Improvement,TRUE,jedda,Future  School,5/7/2022
+S1337,Lama Alotaibi,male,18,10,3.14,70,55,50,94.4, ,No,Jeddah,Bright Academy,5/24/2022
+S1338,Reem Almutairi,M,200,10,3.28,90,85,100,89.1,Average,TRUE,Dammam,Future School,8/18/2023
+S1339,Ali Alharbi,F,15,11,3.17,eighty,75,60,105.6,bad,no,Dammam,Future  School,8/28/2023
+S1340,Layla Alotaibi,female,16,10,3.2,80,75,60,90,Average,No,jedda,Bright academy,8/4/2022
+S1341,Lama Alqahtani,MALE,-1,10,2.34,60,65,50,94.3,Excellent,yes,jedda,Future  School,2/16/2023
+S1342,Omar Almutairi,male,16,11,3.52,70,55,60,103.5,bad,Yes,Jeddah,Bright academy,9/15/2021
+S1343,Layla Aldosari,M,18,11,3.58,80,55,50,84.2,Needs Improvement,No,Riyadh,Bright academy,7/19/2023
+S1344,Faisal Almutairi,FEMALE,17,10,2.89,70,75,50,107.6,Average,Yes,JEDDAH,Bright Academy,7/7/2021
+S1345,Faisal Alotaibi,female,16,11,2.98,60,65,60,76.7,Average,No,Riyad,Bright Academy,8/18/2021
+S1346,Khalid Aldosari,Male,16,11,2.23,80,85,80,108.3, ,Yes,Riyadh,Bright Academy,7/8/2021
+S1347,Reem Alzahrani,female,16,12,3.26,80,65,80,88.3,Excellent,TRUE,jedda,Bright Academy,2/19/2022
+S1348,Reem Alshammari,FEMALE,17,12,3.29,80,55,60,89.6,bad,Yes,Dammam,Bright academy,1/10/2021
+S1349,Lama Alshammari,MALE,16,11,2.97,60,75,80,73.1,Average,No,riyadh,Bright Academy,4/24/2021
+S1350,Faisal Alzahrani,Female,17,11,3.56,80,65,80,87.5,Good,yes,Dammam,Future  School,3/17/2021
+S1351,Omar Alghamdi,FEMALE,16,11,2.83,60,65,80,81.6,Average,no,riyadh,Future  School,11/7/2022
+S1352,Layla Alqahtani,M,17,12,3.28,60,75,50,85.9,Average,No,jedda,Bright Academy,5/17/2022
+S1353,Sara Alotaibi,MALE,18,10,2.49,90,85,70,90.6,Excellent,FALSE,riyadh,Bright academy,3/26/2021
+S1354,Ahmed Alshehri,Female,-1,12,2.99,60,75,100,101.6,Excellent,FALSE,jedda,Bright academy,2/18/2021
+S1355,Ali Aldosari,FEMALE,16,10,2.91,70,75,70,94.1,Good,no,Dammam,Future School,5/10/2022
+S1356,Nora Alshehri,F,18,10,3.11,nan,75,60,95.1,Average,yes,Dammam,Bright Academy,4/18/2023
+S1357,Nora Alqahtani,male,17,12,2.82,90,85,70,81,Average,No,Jeddah,Future School,11/20/2022
+S1358,Faisal Alzahrani,F,17,10,2.93,80,65,70,83.2, ,yes,jedda,Bright Academy,1/22/2022
+S1359,Khalid Alharbi,FEMALE,-1,10,3.41,80,nan,70,110,Excellent,TRUE,Jeddah,Bright academy,8/28/2023
+S1360,Nora Alsubaie,FEMALE,16,11,2.78,80,65,50,84.6,Good,FALSE,riyadh,Bright academy,1/24/2022
+S1361,Reem Alshammari,MALE,15,12,2.2,60,55,60,108.6, ,No,jedda,Future  School,8/6/2021
+S1362,Reem Alghamdi,M,18,12,3.87,70,75,80,89.6,bad,Yes,Riyadh,Bright Academy,12/2/2022
+S1363,Omar Alshehri,MALE,16,11,3.69,70,75,80,92,Excellent,TRUE,Dammam,Future  School,9/8/2023
+S1364,Layla Alshehri,Male,18,10,2.35,60,75,50,102.7,Excellent,TRUE,JEDDAH,Bright academy,12/12/2021
+S1365,Nora Almutairi,MALE,18,11,3.34,70,nan,100,104.7,bad,Yes,riyadh,Bright academy,8/18/2021
+S1366,Faisal Alsubaie,female,15,11,2.75,90,75,60,90.9,Excellent,TRUE,Riyad,Bright Academy,9/12/2021
+S1367,Faisal Alqahtani,MALE,18,11,3.13,nan,65,70,88.1,Average,N,Dammam,Bright academy,8/24/2021
+S1368,Reem Alharbi,M,16,12,3.15,70,75,80,91.4,Good,Yes,Riyad,Bright academy,1/26/2021
+S1369,Layla Almutairi,MALE,17,11,2.88,60,75,80,95.4,bad,TRUE,Riyad,Future School,8/7/2022
+S1370,Nora Alotaibi,female,17,10,2.61,60,65,100,100.9, ,Yes,riyadh,Bright Academy,9/18/2021
+S1371,Nora Aldosari,male,200,12,2.65,90,55,60,92,Excellent,Y,jedda,Future  School,2/5/2023
+S1372,Reem Alharbi,Female,15,12,2.54,70,55,80,98.2,Needs Improvement,N,jedda,Bright Academy,9/28/2021
+S1373,Khalid Alshammari,FEMALE,16,10,2.58,70,75,50,108.4, ,FALSE,Dammam,Future  School,5/3/2021
+S1374,Layla Almutairi,MALE,17,11,2.97,80,85,70,95.8, ,FALSE,Riyadh,Future  School,10/18/2022
+S1375,Faisal Alshehri,M,17,10,2.64,60,75,70,95.1,Good,Y,Jeddah,Bright academy,9/14/2021
+S1376,Ahmed Alghamdi,MALE,17,11,3.34,70,55,70,76.8,Average,Y,Dammam,Bright academy,10/18/2022
+S1377,Sara Alotaibi,female,15,10,3.74,70,65,60,65.7,Needs Improvement,FALSE,Riyadh,Bright Academy,2/25/2022
+S1378,Nora Almutairi,MALE,16,12,2.71,80,75,80,95.9,Good,N,Riyad,Bright Academy,9/16/2021
+S1379,Ali Alharbi,F,16,12,3.12,eighty,75,50,91.1, ,no,Riyadh,Bright Academy,8/6/2023
+S1380,Reem Alsubaie,Male,18,11,3.25,80,55,50,86.9,Average,TRUE,JEDDAH,Bright Academy,2/16/2021
+S1381,Ali Alzahrani,FEMALE,16,10,3.24,70,nan,70,94.4, ,Y,jedda,Future School,5/13/2023
+S1382,Omar Alzahrani,MALE,16,12,3.04,80,75,60,91.4,Good,Yes,Jeddah,Future  School,6/9/2022
+S1383,Omar Alghamdi,F,-1,10,3.37,60,65,80,103.3,Good,N,riyadh,Bright Academy,6/7/2023
+S1384,Layla Alshehri,male,15,12,3.24,nan,65,60,92.9,Needs Improvement,Y,riyadh,Bright academy,7/27/2021
+S1385,Layla Alshehri,female,-1,10,2.38,60,nan,50,84.5,Needs Improvement,no,riyadh,Future  School,11/7/2021
+S1386,Faisal Alghamdi,M,17,11,3.43,70,65,80,101.9,bad,yes,Jeddah,Bright academy,1/17/2023
+S1387,Faisal Alzahrani,MALE,18,11,3.44,70,85,70,89.8, ,No,riyadh,Future  School,5/29/2021
+S1388,Lama Alshehri,F,16,10,2.62,80,seventy,50,97.3, ,Yes,JEDDAH,Future School,4/14/2023
+S1389,Lama Alshehri,Male,15,10,3.02,90,75,70,87.2,bad,Yes,JEDDAH,Bright academy,3/14/2022
+S1390,Omar Almutairi,Female,17,10,3.34,70,65,70,85.5,Average,Y,Riyadh,Bright Academy,6/4/2021
+S1391,Layla Alshammari,Female,18,12,2.9,70,55,70,92.8, ,no,Riyad,Future  School,11/9/2022
+S1392,Ali Alsubaie,FEMALE,17,11,3.54,60,65,60,92.1,Needs Improvement,No,Riyad,Bright Academy,3/31/2021
+S1393,Ali Alghamdi,FEMALE,15,11,4.18,nan,65,80,96.8,bad,Y,Riyad,Future  School,11/29/2022
+S1394,Ali Alzahrani,male,17,10,2.61,80,75,80,89.3,bad,N,riyadh,Future School,4/10/2023
+S1395,Layla Almutairi,Male,17,12,2.31,70,65,70,73.6,Needs Improvement,TRUE,Dammam,Future School,12/24/2021
+S1396,Layla Alqahtani,FEMALE,17,10,3.15,80,55,50,87.7, ,yes,JEDDAH,Future School,6/23/2021
+S1397,Khalid Alghamdi,MALE,17,11,3.36,60,55,80,99.9,Needs Improvement,Yes,jedda,Future  School,8/5/2021
+S1398,Sara Alzahrani,male,18,10,2.88,nan,65,70,89, ,TRUE,Dammam,Future School,6/26/2023
+S1399,Sara Alharbi,Male,17,11,3.73,70,55,70,89.5,Needs Improvement,N,JEDDAH,Bright academy,4/1/2022
+S1400,Sara Alsubaie,MALE,15,10,2.33,60,55,60,101.9,Excellent,No,JEDDAH,Future School,2/15/2023
+S1401,Omar Alotaibi,F,16,11,3.35,nan,seventy,80,84.9,Excellent,FALSE,Riyadh,Future  School,9/1/2022
+S1402,Ali Almutairi,M,15,12,2.7,80,65,70,76.6, ,No,Jeddah,Bright academy,9/21/2022
+S1403,Faisal Alqahtani,Female,16,11,3.86,60,65,50,90.4,Needs Improvement,no,JEDDAH,Future School,7/18/2021
+S1404,Sara Alshammari,FEMALE,16,12,4,80,85,60,87.2,Good,TRUE,Riyad,Future  School,4/12/2023
+S1405,Lama Alsubaie,male,15,12,2.62,70,seventy,80,82.3,bad,Yes,Riyad,Future  School,5/1/2022
+S1406,Layla Alshammari,F,16,10,2.73,60,75,,90.2,Average,no,jedda,Bright academy,6/17/2022
+S1407,Ali Alotaibi,MALE,15,10,3.43,70,75,100,96.9,Average,no,Riyadh,Bright academy,7/19/2021
+S1408,Nora Alshammari,Female,18,12,2.81,80,65,70,91.9,Needs Improvement,yes,Jeddah,Future  School,1/6/2022
+S1409,Lama Almutairi,female,200,11,2.98,70,65,70,95.1,Excellent,Y,Riyad,Future  School,8/17/2023
+S1410,Omar Alotaibi,M,15,12,3.01,80,65,60,110.1,Good,no,Dammam,Future  School,5/3/2023
+S1411,Ahmed Almutairi,male,-1,10,2.04,60,75,50,88.6,Good,No,jedda,Bright academy,3/24/2022
+S1412,Sara Aldosari,Female,17,10,2.99,80,75,100,94.8,Needs Improvement,TRUE,Jeddah,Future School,9/5/2021
+S1413,Nora Alsubaie,Male,16,11,2.66,60,65,60,86.9, ,Y,jedda,Future School,2/27/2023
+S1414,Nora Alotaibi,M,15,11,2.75,80,55,80,83.5,Good,no,riyadh,Future School,9/21/2021
+S1415,Omar Alsubaie,FEMALE,17,10,3.72,80,75,60,86.2,Good,N,Jeddah,Bright academy,2/27/2021
+S1416,Lama Alshammari,MALE,17,10,2.37,90,55,50,87.2,Good,Yes,Dammam,Bright Academy,10/29/2021
+S1417,Ahmed Alghamdi,FEMALE,17,11,3.41,70,75,,95.6,Good,No,Riyad,Bright academy,1/31/2021
+S1418,Khalid Alshammari,female,15,12,2.86,60,75,70,115.5, ,Y,jedda,Future School,5/13/2022
+S1419,Ahmed Alsubaie,Male,15,10,2.86,nan,75,100,84.8,Average,FALSE,Dammam,Bright academy,9/6/2021
+S1420,Nora Alharbi,Female,16,12,3.4,80,75,60,87.8,Average,yes,Riyadh,Future School,8/28/2022
+S1421,Ahmed Aldosari,female,16,11,3.17,70,85,60,91.4,Needs Improvement,No,JEDDAH,Bright academy,2/16/2023
+S1422,Omar Almutairi,male,16,11,3.29,80,65,60,96, ,no,Riyad,Future  School,9/28/2021
+S1423,Lama Almutairi,MALE,16,12,3.48,60,75,70,94.6,Average,Yes,Riyad,Future  School,8/29/2022
+S1424,Nora Alzahrani,MALE,18,10,2.83,70,75,60,104.8,bad,FALSE,Riyad,Future  School,10/28/2022
+S1425,Khalid Alsubaie,MALE,200,11,2.69,nan,55,80,67.7,Good,N,JEDDAH,Future School,1/29/2022
+S1426,Ahmed Alghamdi,Female,16,11,2.46,eighty,nan,70,68.1,Good,Yes,Dammam,Future School,3/8/2023
+S1427,Ahmed Alharbi,M,200,10,2.59,80,65,70,87, ,N,jedda,Future School,5/17/2022
+S1428,Faisal Alshehri,Male,16,12,4.47,90,65,50,103,Average,FALSE,jedda,Bright academy,8/15/2022
+S1429,Nora Aldosari,male,16,10,3.62,70,75,100,76.3,bad,N,riyadh,Bright academy,3/15/2023
+S1430,Khalid Alshammari,female,16,12,2.32,80,75,50,61.9,bad,Yes,riyadh,Future School,3/25/2021
+S1431,Ahmed Alshammari,FEMALE,17,12,2.34,80,55,50,97.7,Excellent,TRUE,Dammam,Future  School,12/31/2021
+S1432,Faisal Alsubaie,female,-1,10,3.24,70,55,70,94.4,Excellent,yes,Riyadh,Bright Academy,6/5/2023
+S1433,Sara Alshammari,MALE,17,11,3.27,80,seventy,70,81.1,Good,FALSE,Dammam,Bright academy,7/3/2022
+S1434,Faisal Alotaibi,Female,16,10,3.27,90,55,60,82.1, ,No,JEDDAH,Future  School,12/8/2021
+S1435,Omar Almutairi,Female,17,11,2.87,90,65,60,82.3,Excellent,no,Riyadh,Future  School,4/19/2023
+S1436,Khalid Alshammari,M,15,10,2.94,80,75,80,93.1, ,Y,Riyadh,Future School,2/11/2022
+S1437,Layla Alotaibi,M,18,12,3.16,70,65,50,85.7,Good,N,Riyadh,Future  School,3/1/2022
+S1438,Nora Alshammari,F,17,10,3.04,70,55,80,96.9,Needs Improvement,no,Jeddah,Bright academy,1/14/2023
+S1439,Faisal Alshehri,F,16,10,1.89,eighty,55,70,63.5,Good,no,riyadh,Bright academy,4/3/2021
+S1440,Khalid Alshammari,Female,17,10,2.89,nan,55,60,83.4,bad,TRUE,Riyadh,Future  School,4/28/2023
+S1441,Ali Alghamdi,MALE,17,10,2.57,80,75,60,80.7,bad,No,Riyad,Future School,9/6/2022
+S1442,Khalid Alharbi,female,15,10,3.09,80,65,60,89.4, ,FALSE,jedda,Bright academy,2/16/2022
+S1443,Layla Alshammari,female,17,12,4.49,80,55,80,86.6,Excellent,yes,Dammam,Future  School,3/8/2022
+S1444,Khalid Alzahrani,MALE,16,11,3.18,eighty,75,70,100,Excellent,FALSE,Jeddah,Future School,11/9/2022
+S1445,Faisal Almutairi,Female,17,11,2.84,70,75,60,73.4,Needs Improvement,no,Riyadh,Bright Academy,6/8/2021
+S1446,Faisal Almutairi,Female,18,10,3.46,70,nan,70,92.5,Average,Y,JEDDAH,Bright academy,1/14/2021
+S1447,Khalid Aldosari,female,18,12,3.24,60,65,100,97.6, ,N,riyadh,Future School,1/8/2022
+S1448,Reem Alshammari,female,17,12,3.21,70,75,60,110.6,Good,no,Jeddah,Future School,8/13/2021
+S1449,Lama Alshammari,MALE,17,12,3.3,70,65,100,87.2, ,FALSE,Riyad,Future  School,5/20/2022
+S1450,Lama Alshammari,female,15,11,4.03,70,65,60,95.2,Excellent,N,Riyadh,Future School,3/14/2021
+S1451,Faisal Alharbi,female,17,11,2.43,80,75,50,74,Average,yes,Riyadh,Future School,9/6/2021
+S1452,Reem Alshammari,F,16,12,3.24,90,85,50,68.1, ,No,Riyadh,Bright academy,5/26/2022
+S1453,Omar Alghamdi,M,16,10,2.54,60,75,60,100.4,bad,Yes,Jeddah,Bright academy,8/26/2022
+S1454,Faisal Alqahtani,MALE,16,10,3.28,70,75,50,91.9,Average,Y,Jeddah,Bright Academy,8/4/2021
+S1455,Nora Alshehri,FEMALE,15,10,2.54,90,75,,103.8,Needs Improvement,Yes,Jeddah,Future  School,8/31/2023
+S1456,Lama Aldosari,Female,17,12,2.79,60,65,100,78.3, ,TRUE,Riyadh,Future School,8/25/2022
+S1457,Faisal Alshehri,Male,15,11,2.85,60,75,80,97.2,bad,TRUE,riyadh,Bright academy,6/25/2022
+S1458,Khalid Alotaibi,F,17,10,3.49,60,65,70,110.7,Good,no,Dammam,Future  School,8/5/2023
+S1459,Ahmed Almutairi,male,16,10,3.46,80,55,50,96.2,bad,yes,Dammam,Bright Academy,3/28/2023
+S1460,Layla Alghamdi,M,15,12,2.38,60,75,50,94.8,Excellent,Yes,jedda,Bright academy,7/28/2023
+S1461,Layla Alshammari,MALE,17,10,3.03,eighty,75,50,92.1,Good,N,Riyadh,Future School,9/15/2023
+S1462,Faisal Alharbi,FEMALE,15,12,2.65,70,65,70,76.3,Excellent,N,Riyad,Bright Academy,8/8/2021
+S1463,Layla Alghamdi,F,16,12,2.37,70,85,100,105.6,Needs Improvement,yes,jedda,Future  School,4/20/2023
+S1464,Sara Alotaibi,M,17,11,2.89,60,nan,60,85.9,Good,TRUE,Jeddah,Bright Academy,12/28/2022
+S1465,Sara Alghamdi,male,15,12,2.85,70,65,50,97,Average,Yes,Jeddah,Future  School,8/9/2021
+S1466,Faisal Almutairi,MALE,18,11,4.21,80,55,70,76.4,Average,FALSE,Riyadh,Bright academy,1/24/2022
+S1467,Ahmed Aldosari,FEMALE,15,11,3.22,80,75,60,80.2,Average,Yes,Jeddah,Bright academy,7/8/2022
+S1468,Khalid Alsubaie,Female,16,12,2.31,80,75,60,106.4, ,no,JEDDAH,Future School,10/9/2022
+S1469,Lama Alzahrani,female,17,10,2.72,80,65,70,88.5,bad,N,Riyadh,Bright academy,2/11/2021
+S1470,Sara Alzahrani,Male,16,12,3.51,90,75,70,106.5,Average,no,riyadh,Bright Academy,11/7/2022
+S1471,Faisal Alotaibi,M,15,12,4.04,80,65,50,91.2,Good,No,Riyad,Future School,5/23/2023
+S1472,Omar Alshammari,Female,16,11,2.21,80,75,,73.6,Excellent,no,Riyadh,Bright academy,10/10/2021
+S1473,Khalid Alshehri,Female,16,10,2.06,60,65,100,100.9,Average,Yes,riyadh,Bright academy,2/27/2021
+S1474,Ali Alshehri,male,18,11,3.94,nan,65,50,86.1,Needs Improvement,Yes,Jeddah,Bright Academy,3/25/2023
+S1475,Reem Alharbi,M,16,10,3.19,60,85,50,99, ,FALSE,jedda,Future School,4/14/2023
+S1476,Sara Alotaibi,Female,17,10,2.57,80,65,50,92.3,bad,Yes,riyadh,Future  School,6/21/2022
+S1477,Omar Aldosari,male,18,10,3.27,70,55,,76.6,bad,N,Dammam,Future  School,3/14/2021
+S1478,Lama Alqahtani,FEMALE,16,12,1.68,70,75,60,93.6,bad,yes,riyadh,Bright Academy,6/4/2023
+S1479,Omar Alshehri,Male,200,10,3,90,seventy,80,114,Good,No,Jeddah,Future  School,7/12/2023
+S1480,Omar Alotaibi,F,16,10,3.16,90,65,60,96.9,Needs Improvement,TRUE,Jeddah,Future  School,5/9/2021
+S1481,Ali Alharbi,FEMALE,-1,11,3.46,90,55,60,91.4,Average,no,JEDDAH,Bright academy,8/22/2022
+S1482,Lama Alqahtani,male,15,12,2.49,70,65,70,102.8, ,FALSE,JEDDAH,Bright Academy,4/22/2023
+S1483,Ahmed Alqahtani,F,17,11,3.04,80,65,70,94.1,Good,No,riyadh,Bright academy,3/2/2022
+S1484,Sara Alshammari,Female,16,10,2.54,70,55,80,94.1,Average,no,JEDDAH,Future School,8/6/2023
+S1485,Faisal Alzahrani,Female,16,10,3.13,60,75,80,81.1, ,Y,Jeddah,Bright Academy,10/27/2022
+S1486,Ahmed Almutairi,female,17,10,2.55,60,seventy,,94.3,Excellent,TRUE,Riyadh,Bright academy,11/25/2022
+S1487,Ahmed Alshammari,Female,17,12,2.8,70,65,80,102.4,Good,N,jedda,Bright Academy,5/5/2021
+S1488,Omar Aldosari,female,15,12,2.5,70,65,60,83.6, ,Y,riyadh,Future School,3/8/2021
+S1489,Reem Alharbi,Female,15,11,3.33,80,65,100,106.2, ,Y,Riyad,Bright academy,1/6/2021
+S1490,Layla Alshammari,MALE,17,10,3.43,60,55,60,91.1, ,yes,jedda,Bright academy,9/29/2022
+S1491,Lama Alzahrani,Male,17,10,2.88,80,85,100,83.1,Excellent,TRUE,jedda,Future School,11/10/2021
+S1492,Ali Alotaibi,male,-1,10,3.02,70,65,80,102,Needs Improvement,TRUE,Riyadh,Future School,11/22/2021
+S1493,Khalid Almutairi,Female,17,10,2.28,70,65,50,89.1,bad,FALSE,Jeddah,Future School,7/19/2022
+S1494,Lama Alotaibi,female,-1,12,2.85,70,75,70,99.6,Needs Improvement,yes,Jeddah,Bright Academy,8/1/2022
+S1495,Faisal Alharbi,F,17,11,2.97,70,65,100,89.1,bad,N,Riyad,Future School,4/6/2023
+S1496,Sara Almutairi,F,16,10,4.31,80,75,80,91.4,bad,No,Dammam,Future School,5/21/2022
+S1497,Khalid Alshammari,female,15,11,2.44,70,55,50,96.9,Average,Y,jedda,Bright Academy,3/23/2021
+S1498,Omar Alsubaie,FEMALE,17,12,3.73,60,75,70,94.9,Average,TRUE,Riyad,Future School,8/22/2022
+S1499,Sara Alotaibi,FEMALE,17,11,3.5,60,85,60,72,Average,Y,Riyad,Bright Academy,1/2/2021
+S1281,Nora Alghamdi,M,200,10,3.2,60,75,,95.9,Needs Improvement,FALSE,Riyadh,Future  School,8/12/2021
+S1087,Faisal Alotaibi,MALE,15,12,2.49,70,75,70,90.5,Excellent,yes,Riyad,Future School,1/1/2023
+S1222,Nora Alqahtani,male,15,10,3.53,90,75,70,75.1,Good,yes,JEDDAH,Future  School,9/26/2023
+S1009,Khalid Aldosari,M,18,11,2.93,80,85,60,79.7,Needs Improvement,Yes,Jeddah,Bright Academy,4/8/2022
+S1318,Ali Alotaibi,female,17,11,2.54,60,75,70,100.6,Needs Improvement,no,Riyadh,Future School,12/6/2022
+S1456,Layla Alharbi,Female,17,12,2.79,60,65,100,78.3, ,TRUE,Riyadh,Future School,8/25/2022
+S1365,Reem Alharbi,MALE,18,11,3.34,70,nan,100,104.7,bad,Yes,riyadh,Bright academy,8/18/2021
+S1003,Ali Alzahrani,male,16,11,3.3,70,75,60,87, ,Y,Riyadh,Future School,3/27/2023
+S1413,Layla Alghamdi,Male,16,11,2.66,60,65,60,86.9, ,Y,jedda,Future School,2/27/2023
+S1377,Ali Alsubaie,female,15,10,3.74,70,65,60,65.7,Needs Improvement,FALSE,Riyadh,Bright Academy,2/25/2022
