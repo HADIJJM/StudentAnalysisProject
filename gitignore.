@@ -1,0 +1,24 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore generated/processed data files
+# If you only want to commit the raw data and not the processed one
+#data/interim/
+#data/processed/
+
+# Ignore sensitive files (example)
+# .env
+# config.py
