@@ -1,24 +1,77 @@
-# Ignore Python virtual environment
+# Python ignores
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment ignores
 .venv/
 venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
-# Ignore Python specific files
-__pycache__/
-*.pyc
-
-# Ignore editor-specific files
+# IDE ignores
 .vscode/
 .idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
 
-# Ignore OS-specific files
+# System ignores
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+Desktop.ini
 
-# Ignore generated/processed data files
-# If you only want to commit the raw data and not the processed one
+# Data directories (uncomment if needed)
 #data/interim/
 #data/processed/
 
-# Ignore sensitive files (example)
-# .env
-# config.py
+# Sensitive files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.key
+*.pem
+*.cert
+config.py
+secrets.py
+credentials.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
